@@ -5,7 +5,7 @@
 	align-items:space-between;
 	
 	width:708px;
-	height:150px;
+	height:500px;
 }
 .main{
 	display:block;
@@ -15,7 +15,7 @@
 
 	width:500px;
 	height:350px;
-	/* object-fit:cover; */
+	object-fit:cover;
 }
 button{
 	display:block;
